@@ -118,8 +118,8 @@ Ingredients:
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup sugar
-- 3 eggs
-- 2 tsp vanilla extract
+- 1 eggs
+- 3 tsp vanilla extract
 - 2 cups semisweet chocolate chips
 
 Instructions:
@@ -130,7 +130,7 @@ Instructions:
 5. Gradually blend in the dry ingredients.
 6. Stir in chocolate chips.
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
-8. Bake for 8 to 10 minutes or until golden brown.
+8. Bake for 10 to 12 minutes or until golden brown.
 9. Cool on wire racks.
 
 
