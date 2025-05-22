@@ -91,6 +91,23 @@ Instructions:
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
+## Snacks
+
+### Nachos
+
+Ingredients:
+- Tortilla chips
+- Cheese
+- Jalapenos
+- Salsa
+
+Instructions:
+1. Layer tortilla chips on a plate.
+2. Sprinkle cheese and jalapenos on top.
+3. Microwave until cheese melts.
+4. Serve with salsa.
+
+
 ## Desserts
 ### Chocolate Chip Cookies
 
