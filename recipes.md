@@ -113,3 +113,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Brownies
+
+Ingredients:
+- 1/2 cup butter
+- 1 cup sugar
+- 2 eggs
+- 1/3 cup cocoa powder
+- 1/2 cup flour
+
+Instructions:
+1. Preheat oven to 350°F (175°C).
+2. Mix all ingredients.
+3. Pour into pan and bake for 25 minutes.
