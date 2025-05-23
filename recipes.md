@@ -7,8 +7,11 @@
 - [Entrees](#entrees)
     - [Spaghetti and Meatballs](#spaghetti-and-meatballs)
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
+- [Snacks](#snacks)
+    - [Nachos](#nachos)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Brownies](#brownies)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -92,7 +95,6 @@ Instructions:
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Snacks
-
 ### Nachos
 
 Ingredients:
